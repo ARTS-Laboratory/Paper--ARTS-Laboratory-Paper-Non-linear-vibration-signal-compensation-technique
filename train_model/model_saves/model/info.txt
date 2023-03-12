@@ -1,0 +1,2 @@
+2023-01-13 16:57:30,737 - INFO - Model inputs: ['lstm_1_input']
+2023-01-13 16:57:30,737 - INFO - Model outputs: ['time_distributed_1']
