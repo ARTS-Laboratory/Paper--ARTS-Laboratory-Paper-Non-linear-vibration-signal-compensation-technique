@@ -9,8 +9,9 @@ Figure 1: Experimental setup for LSTM compensator model training using a superio
 includes sets of training data using various frequency sweeps in the range of 0-20 Hz.
 data recorded is acceleration of bothe reference and sensor package using the experimental setup in figure 1.
 
-## [LSTM compensator](LSTM compensator)
+## [LSTM compensator](LSTM%20compensator)
 
+This folder contains files used to create the LSTM compensator model. Models were created using `tensorflow.keras`.
 
 <br /><br /><br />
 
